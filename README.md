@@ -9,3 +9,5 @@ Ain't much, but it's honest work.
 ### React
 
 - Suspense
+
+> Too much boilerplate at the moment. Not worth it.
