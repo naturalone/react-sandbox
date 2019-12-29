@@ -8,4 +8,4 @@ Ain't much, but it's honest work.
 
 ### React
 
-..\* Suspense
+- Suspense
